@@ -5,6 +5,7 @@
 # Mssv: K225480106067
 # 1. Video thuyết trình: https://youtu.be/inemOLRyoSU?si=QS1s_LQZ2sABKqjJ
 # 2. Hướng dẫn chạy code
+
 Bước 1: Cài đặt thư viện
   Mở Terminal hoặc CMD và chạy:
     pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
