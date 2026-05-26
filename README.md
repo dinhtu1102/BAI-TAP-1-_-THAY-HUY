@@ -21,7 +21,7 @@ Bước 3: Chạy lần lượt từng ô code
   6 Vẽ biểu đồ
   7 Phân cụm KMeans
   8 Xuất kết quả ra Excel
-Bước 5: Xem kết quả
+Bước 4: Xem kết quả
   Sau khi chạy hoàn tất:
     Kết quả xét học bổng sẽ hiển thị trên notebook.
     Các biểu đồ thống kê sẽ được vẽ tự động.
