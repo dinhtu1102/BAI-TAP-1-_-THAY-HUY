@@ -41,11 +41,11 @@ Bước 3: Chạy lần lượt từng ô code
 Bước 4: Xem kết quả
 
   Sau khi chạy hoàn tất:
-  
+    
     Kết quả xét học bổng sẽ hiển thị trên notebook.
-    
-    Các biểu đồ thống kê sẽ được vẽ tự động.
-    
+
+    Các biểu đồ thống kê sẽ được vẽ tự động
+
     File kết quả sẽ được xuất ra:
-    
+  
       ket_qua_xet_hoc_bong_kmeans.xlsx
